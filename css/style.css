@@ -11,19 +11,3 @@
 .custom-textarea {
   position: relative;
 }
-
-.custom-textarea:before {
-  content: "";
-  position: absolute;
-  top: -2px;
-  right: -2px;
-  bottom: -2px;
-  left: -2px;
-  border: 2px solid gray;
-  border-radius: 6px;
-  transition: border-color 0.3s ease-in-out;
-}
-
-.custom-textarea:focus:before {
-  border-color: blue;
-}
