@@ -1,23 +1,44 @@
-# Techical Test - Frontend Developer
+# Technical Test - ZettaCamp (ZettaByte)
 
-## Introduction
+## About the Project
 
-My name is **Rizky Ibrahim** and this is my technical test for the position of **Frontend Developer** at **[ZettaCamp](https://www.zettacamp.pro/)**.
+This is my submission for the technical test for the position of **Frontend Developer** at **[ZettaCamp](https://www.zettacamp.pro/)**. The test consists of two parts: the **HTML and CSS Test** and the **Javascript Test**.
 
-## What Inside
+## Project Structure
 
-### 1. HTML and CSS Test
+The project structure is organized as follows:
 
-I use **HTML5** and **CSS3** to create the layout of the website. I also use **TailwindCSS** to help me with the styling.
+``` 
+css/
+    - style.css
+    - tailwind.min.css
+images/
+    - [Images]
+js/
+    - script.js
+index.html
+searchMedian.ts
+searchMedian.js
+```
 
-### 2. Javascript Test
+## HTML and CSS Test
 
-I use **Typescript** to create the logic of the website.
+For the website layout, I utilized **HTML5** and **CSS3**. Additionally, I employed **TailwindCSS** to assist with styling.
 
-to run the code, you can use the command `tsc searchMedian.ts` to compile the code and then `node searchMedian.js` to run the code.
+## Javascript Test
 
-## Contact Me
+To implement the website's logic, I used **Typescript**.
 
-If you have any question, you can contact me at **[WhatsApp](https://wa.me/6287808740020)** or **[Email](mailto:rizky98ibrahim@gmail.com)**.
+1.Compile the code using the command `tsc searchMedian.ts`
+2.Run the code using the command `node searchMedian.js`
 
-## Thank You for Your Time 🙏
+
+## Contact
+
+If you have any further questions, feel free to contact me through:
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287808740020)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizky98ibrahim@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rizky98ibrahim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizky98ibrahim/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instragram.com/rizky98ibrahim)
